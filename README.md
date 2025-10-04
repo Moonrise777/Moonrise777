@@ -1,4 +1,4 @@
-<h2 align="center"> 💫 About Me: </h2>
+<h2 align="center"> ✮⋆˙ Welcome ˙⋆✮</h2>
 
 <p align="center"> Hi! I'm Arely, glad you stopped by! Feel free to explore my projects ✨ </p>
 
