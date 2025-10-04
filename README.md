@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://www.facebook.com/zuleika.davalos.2025">
-  <img src="https://img.shields.io/badge/Facebook-%2398D8C8.svg?logo=Facebook&logoColor=white" alt="Facebook">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
 </a>
 <a href="https://instagram.com/zuleika_d">
   <img src="https://img.shields.io/badge/Instagram-%23C71585.svg?logo=Instagram&logoColor=white" alt="Instagram">
