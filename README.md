@@ -85,7 +85,7 @@ My dream is to become a Web Designer and create stunning, user-friendly websites
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Moonrise777&theme=calm_pink&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=Moonrise777&theme=calm_pink&no-frame=true&no-bg=false&margin-w=4&bg_color=9370DB" alt="GitHub Trophies">
 </p>
 
 <h2 align="center"> 🔝 Top Contributed Repo </h2>
