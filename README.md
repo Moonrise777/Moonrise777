@@ -1,6 +1,6 @@
 <h2 align="center"> 💫 About Me: </h2>
 
-<p align="center"> My name is Arely, thanks for visiting my GitHub profile! </p>
+<p align="center"> Hi! I'm Arely, glad you stopped by! Feel free to explore my projects ✨ </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Moonrise777/Moonrise777/main/Icon_LM_HD.png" alt="Cat Logo" width="150px" align="center"/>
