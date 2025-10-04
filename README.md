@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-<a href="https://www.facebook.com/zuleika.davalos.2025" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%23FF69B4.svg?logo=Facebook&logoColor=white" alt="Facebook">
+<a href="https://www.facebook.com/zuleika.davalos.2025">
+  <img src="https://img.shields.io/badge/Facebook-%2398D8C8.svg?logo=Facebook&logoColor=white" alt="Facebook">
 </a>
-<a href="https://instagram.com/zuleika_d" target="_blank">
+<a href="https://instagram.com/zuleika_d">
   <img src="https://img.shields.io/badge/Instagram-%23C71585.svg?logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 </p>
