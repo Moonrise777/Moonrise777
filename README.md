@@ -1,10 +1,8 @@
 <h2 align="center"> 💫 About Me: </h2>
 
-My name is Arely, thanks for visiting my GitHub profile!
+<p align="center"> My name is Arely, thanks for visiting my GitHub profile! </p>
 
-<img src="icon_LM_HD.png" alt="Cat Logo" width="40px" align="center"/>  
-
-<h2 align="center"> 🌐 Socials: </h2>
+<img src="./icon_LM_HD.png" alt="Cat Logo" width="40px" align="center"/>  
 
 <p align="center">
 <a href="https://www.facebook.com/zuleika.davalos.2025"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
