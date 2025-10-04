@@ -7,8 +7,12 @@
 </p>
 
 <p align="center">
-<a href="https://www.facebook.com/zuleika.davalos.2025" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://instagram.com/zuleika_d" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black" alt="Instagram"></a>
+<a href="https://www.facebook.com/zuleika.davalos.2025" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%23FF69B4.svg?logo=Facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://instagram.com/zuleika_d" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23FFB6C1.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
 </p>
 
 <p align="center"> 
