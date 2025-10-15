@@ -77,11 +77,13 @@ My dream is to become a Web Designer and create innovative websites 😺🖍️ 
 <h2 align="center"> 📜 Certifications </h2>
 
 <p align="center">
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c9cb489b-1d16-4029-92ed-db62f0859d34" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="57af85ed-7637-4e80-a008-c4ef06c92496" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+  <a href="https://www.credly.com/badges/57af85ed-7637-4e80-a008-c4ef06c92496/public_url">
+    <img src="https://images.credly.com/size/340x340/images/e2796979-4876-410a-9717-b6355202a4a7/image.png" alt="Oracle Cloud Foundations Badge" width="150">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/c9cb489b-1d16-4029-92ed-db62f0859d34/public_url">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de39753517/image.png" alt="AWS Cloud Practitioner Badge" width="150">
+  </a>
 </p>
 
 <h2 align="center"> 📊 GitHub Stats </h2>
