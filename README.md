@@ -74,7 +74,17 @@ My dream is to become a Web Designer and create innovative websites 😺🖍️ 
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
 </p>
 
-<h2 align="center"> 📊 GitHub Stats: </h2>
+<h2 align="center"> 📜 Certifications </h2>
+
+<p align="center">
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c9cb489b-1d16-4029-92ed-db62f0859d34" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="57af85ed-7637-4e80-a008-c4ef06c92496" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+</p>
+
+<h2 align="center"> 📊 GitHub Stats </h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Moonrise777&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats"><br/>
