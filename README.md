@@ -83,8 +83,8 @@ My dream is to become a Web Designer and create innovative websites 😺🖍️ 
   <a href="https://www.credly.com/badges/eb794ca0-8c46-4bc1-9ba7-6ba393b15281/public_url">
     <img src="aws-cloud-architecting.png" alt="AWS Cloud Architecting Badge"/>
   </a>
-  <a href="https://www.credly.com/badges/eb794ca0-8c46-4bc1-9ba7-6ba393b15281/public_url">
-    <img src="networking-basics.png" alt="CISCO Networking Basics"/>
+  <a href="https://www.credly.com/badges/cbb46476-2829-44b0-9473-1ede9e22ab4c/public_url">
+    <img src="networking-basics.png" alt="CISCO Networking Basics" width="130px"/>
   </a>
 </p>
 
