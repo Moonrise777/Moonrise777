@@ -91,7 +91,6 @@ My dream is to become a Web Designer and create innovative websites 😺🖍️ 
 <h2 align="center"> 📊 GitHub Stats </h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Moonrise777&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats"><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Moonrise777&theme=transparent&hide_border=true" alt="GitHub Streak"><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonrise777&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
