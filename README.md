@@ -15,10 +15,9 @@
 </a>
 </p>
 
-<p align="center"> 
-I'm a Computer Systems Engineering student aiming to build beautiful and functional web experiences! <br>
-Passionate about Front-end development with expertise in React, Sass, CSS, and more 💻  <br>
-My dream is to become a Web Designer and create innovative websites 😺🖍️ <br>
+<p align="center"> I’m a Computer Systems Engineering graduate dedicated to building innovative web applications. <br>
+  My skillset spans from crafting beautiful interfaces with React and CSS to powering robust Backends with PHP. <br>
+  🚀 Mindset: I’m a fast learner who turns complex challenges into solutions. No technology is off-limits; if I don't know it yet, I'll master it. <br>
 </p>
 
 <h2 align="center"> 💻 Tech Stack: </h2>
